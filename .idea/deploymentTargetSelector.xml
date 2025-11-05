@@ -11,7 +11,16 @@
       <SelectionState runConfigName="w04">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="app.w04">
+      <SelectionState runConfigName="w05">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="app.w05">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="w06">
+        <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="w09">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>

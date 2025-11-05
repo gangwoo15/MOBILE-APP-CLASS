@@ -23,3 +23,7 @@ rootProject.name = "W3"
 include(":app")
 include(":w03")
 include(":w04")
+include(":app:w05")
+include(":w05")
+include(":w06")
+include(":w09")
